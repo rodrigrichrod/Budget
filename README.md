@@ -1,0 +1,2 @@
+#Budget application using JavaFX
+Displays calendar to user with amounts filled into each day to track daily funds for each day.  Ability to add income and expenses.  This version must have MySQL installed, run it locally as localhost, and modify the Database.java file for the MySQL username and password.  
