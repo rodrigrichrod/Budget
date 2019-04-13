@@ -1,0 +1,15 @@
+	/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+  	
+.pane {
+	-fx-border-color: black;
+	-fx-border-width: .5px .5px .5px .5px;
+	-fx-border-style: solid;
+	-fx-background-color:rgb(204,255,204);
+	
+}	
+
+ .grid {
+	-fx-border-color: #2e8b57;
+	-fx-border-width: 10px;
+	-fx-border-style: solid;
+}
